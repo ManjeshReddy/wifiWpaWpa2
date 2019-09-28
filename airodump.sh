@@ -22,6 +22,7 @@ echo "$green
                                #####                                  
                                ####.   
 "
+iwconfig
 if [ -z $1 ]
 then 
   echo "Zero arguments passed"
